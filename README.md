@@ -1,7 +1,4 @@
 # IOT
 
-Name : Jayesh Bhandarkar
+Home Automation System.
 
-Poject Title : Home Automation System.
-
-Emertxe Internship
